@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 16 11:39:57 2020
 
-@author: Deepa Kapoor
-"""
 ##NPI num,Name,Gender,Last Updated Certi date,Enumeration Date,NPI Type,Sole Proprietor,Status
 ##,Mailing Address,Primary Practice Address
 ## 'number','name', 'basic''gender', 'basic''last_updated', 'basic''enumeration_date',
