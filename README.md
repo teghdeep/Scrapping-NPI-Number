@@ -1,2 +1,2 @@
 # Scrapping-NPI-Number-
-Python API to fetch NPI details o the doctors in USA 
+Python API to fetch NPI details of the doctors in USA 
